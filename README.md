@@ -1,2 +1,6 @@
 # Exploratory-Data-Analysis
-Analyzed a dataset with 10,000 records to identify key trends in machine failures.
+Dataset Overview:
+
+10,000 rows, 9 columns
+Key numerical features: Air temperature, Process temperature, Torque, Rotational speed, Tool wear, Target
+Key categorical features: Type, Failure Type
